@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ed6b3f-26db-46bb-a030-61d2a4168422" name="Default Changelist" comment="" />
+    <list default="true" id="63ed6b3f-26db-46bb-a030-61d2a4168422" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/tang_svm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionTree/myForestLast.py" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/tang_forest.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,16 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DecisionTree/myForestLast.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/tang_forest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="176">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/tang_kmeans.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -42,6 +53,9 @@
       <find>RandomForestClassifier</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -49,6 +63,7 @@
         <option value="$PROJECT_DIR$/DecisionTree/onlyForest.py" />
         <option value="$PROJECT_DIR$/DecisionTree/test.py" />
         <option value="$PROJECT_DIR$/DecisionTree/myForestLast.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/tang_kmenas.py" />
       </list>
     </option>
   </component>
@@ -77,30 +92,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="learning_decisionTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="decision_tree" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_decisionTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning_decisionTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="decision_tree" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_decisionTree" type="462c0819:PsiDirectoryNode" />
               <item name="DecisionTree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/decisionTree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -125,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.myForestLast">
+  <component name="RunManager" selected="Python.tang_kmeans">
     <configuration name="DecisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="decision_tree" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +177,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/myForestLast.py" />
+      <option name="SCRIPT_NAME" value="E:\ideaProject\learning_decisionTree\DecisionTree\tang_forest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,6 +200,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/onlyForest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tang_kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="decision_tree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DecisionTree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,6 +254,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tang_kmeans" />
         <item itemvalue="Python.myForestLast" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.onlyForest" />
@@ -238,17 +277,18 @@
       <workItem from="1606442551091" duration="1233000" />
       <workItem from="1606530685692" duration="608000" />
       <workItem from="1607578554769" duration="107000" />
+      <workItem from="1608198365925" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30696000" />
+    <option name="totallyTimeSpent" value="31193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.269437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2727882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -331,6 +371,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/decision_tree$DecisionTree.coverage" NAME="DecisionTree Coverage Results" MODIFIED="1606360259240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$myForestLast.coverage" NAME="myForestLast Coverage Results" MODIFIED="1606399453731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$tang_kmeans.coverage" NAME="tang_kmeans Coverage Results" MODIFIED="1608198870685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$onlyForest.coverage" NAME="onlyForest Coverage Results" MODIFIED="1606388551033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$test.coverage" NAME="test Coverage Results" MODIFIED="1606398864602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
   </component>
@@ -369,15 +410,21 @@
     <entry file="file://$PROJECT_DIR$/DecisionTree/tang_canifuniya.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/myForestLast.py">
+    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_svm.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_forest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="176">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_kmeans.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
