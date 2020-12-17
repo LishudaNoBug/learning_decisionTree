@@ -1,20 +1,15 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
+import matplotlib.pyplot as plt
+import sklearn.datasets as ds
+import matplotlib.colors
 
 """
     K-Means算法实例
 """
 
-import matplotlib.pyplot as plt
-import sklearn.datasets as ds
-import matplotlib.colors
-#造数据
-N=800
-centers=4
+
 # 生成2000个（默认）2维样本点集合，中心点5个
-data,y=ds.make_blobs(N,centers=centers,random_state=0)
-#原始数据分布
+data,y=ds.make_blobs(800,centers=4,random_state=0)      # data是一个个点，y是label标签   （800个点，4分类，随机种子）
+
 #在使用matplotliblib画图的时候经常会遇见中文或者是负号无法显示的情况，我们会添加下面两句话：
 #pylot使用rc配置文件来自定义图形的各种默认属性，称之为rc配置或rc参数。通过rc参数可以修改默认的属性，包括窗体大小、每英寸的点数、线条宽度、颜色、样式、坐标轴、坐标和网络属性、文本、字体等。
 matplotlib.rcParams['font.sans-serif'] = [u'SimHei']
@@ -24,6 +19,10 @@ plt.scatter(data[:,0],data[:,1],c=y,cmap=cm)
 plt.title(u'原始数据分布')
 plt.grid()
 plt.show()
+
+
+# ==================上面产生一张原始数据的图，下面产生一张kmeans预测的图===============================
+
 
 '''
 sklearn.cluster.KMeans(
@@ -51,14 +50,11 @@ sklearn.cluster.KMeans(
 (10)n_jobs: 并行设置
 (11)algorithm: kmeans的实现算法，有：‘auto’, ‘full’, ‘elkan’, 其中 'full’表示用EM方式实现
 '''
-#K-Means
+
 from sklearn.cluster import KMeans
-# n_clusters=k
-model=KMeans(n_clusters=3,init='k-means++')
-#model.fit_predict相当于两个动作的合并：model.fit（data）+model.predict（data），
-#可以一次性得到聚类预测之后的标签，免去了中间过程。
-y_pre=model.fit_predict(data)
-plt.scatter(data[:,0],data[:,1],c=y_pre,cmap=cm)
+model=KMeans(n_clusters=3,init='k-means++')         # 定义KMeans网络（分3类，质心初始化方法为xxx），就这么简单。
+y_pre=model.fit_predict(data)   #model.fit_predict相当 model.fit（data）+model.predict（data），
+plt.scatter(data[:,0],data[:,1],c=y_pre,cmap=cm)    # 画出预测值
 plt.title(u'K-Means聚类')
 plt.grid()
 plt.show()
