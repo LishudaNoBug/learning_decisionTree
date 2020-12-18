@@ -53,7 +53,7 @@ sklearn.cluster.KMeans(
 
 from sklearn.cluster import KMeans
 model=KMeans(n_clusters=3,init='k-means++')         # 定义KMeans网络（分3类，质心初始化方法为xxx），就这么简单。
-y_pre=model.fit_predict(data)   #model.fit_predict相当 model.fit（data）+model.predict（data），
+y_pre=model.fit_predict(data)   #model.fit_predict相当 model.fit（data）+model.predict（data），   或者不用predict，model.labels_就可以直接拿到标签，与原始数据是一一对应的
 plt.scatter(data[:,0],data[:,1],c=y_pre,cmap=cm)    # 画出预测值
 plt.title(u'K-Means聚类')
 plt.grid()

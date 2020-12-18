@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ed6b3f-26db-46bb-a030-61d2a4168422" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/blog_KNN-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/guoyao_kmeans-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/tang_SVM-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/tang_dbscan-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/9757539_ais.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/beer_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/blog_KNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/guoyao_kmeans.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/tang_dbscan.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionTree/tang_canifuniya.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionTree/tang_titanic.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionTree/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionTree/tang_svc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/tang_svc.ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DecisionTree/tang_forest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="168">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -46,21 +53,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DecisionTree/tang_kmeans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#48#79#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="241">
+              <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DecisionTree/tang_svm.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
@@ -120,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,6 +136,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,7 +304,8 @@
       <workItem from="1606442551091" duration="1233000" />
       <workItem from="1606530685692" duration="608000" />
       <workItem from="1607578554769" duration="107000" />
-      <workItem from="1608198365925" duration="2913000" />
+      <workItem from="1608198365925" duration="4930000" />
+      <workItem from="1608255800889" duration="5254000" />
     </task>
     <task id="LOCAL-00001" summary="增加kmeans算法">
       <created>1608198940917</created>
@@ -314,17 +314,23 @@
       <option name="project" value="LOCAL" />
       <updated>1608198940918</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改">
+      <created>1608206322643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608206322643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33609000" />
+    <option name="totallyTimeSpent" value="40880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15214477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1541555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +339,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.10474861" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10474861" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36173186" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,7 +354,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="SciView" order="5" weight="0.45040214" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.24798928" />
       <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -391,7 +397,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加kmeans算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加kmeans算法" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -418,7 +425,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/decision_tree$DecisionTree.coverage" NAME="DecisionTree Coverage Results" MODIFIED="1606360259240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$myForestLast.coverage" NAME="myForestLast Coverage Results" MODIFIED="1606399453731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
-    <SUITE FILE_PATH="coverage/learning_decisionTree$tang_kmeans.coverage" NAME="tang_kmeans Coverage Results" MODIFIED="1608205380202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$tang_kmeans.coverage" NAME="tang_kmeans Coverage Results" MODIFIED="1608272095214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$onlyForest.coverage" NAME="onlyForest Coverage Results" MODIFIED="1606388551033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$test.coverage" NAME="test Coverage Results" MODIFIED="1606398864602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
   </component>
@@ -448,37 +455,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DecisionTree/Untitled.ipynb" />
     <entry file="file://$PROJECT_DIR$/DecisionTree/onlyForest.py" />
-    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_canifuniya.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_titanic.ipynb">
+    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_canifuniya.ipynb" />
+    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_titanic.ipynb" />
+    <entry file="file://$PROJECT_DIR$/DecisionTree/test.csv" />
+    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_svc.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DecisionTree/tang_forest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="168">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/test.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DecisionTree/tang_kmeans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#48#79#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="241">
+          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_svm.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
   <component name="masterDetails">
