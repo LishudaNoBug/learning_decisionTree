@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ed6b3f-26db-46bb-a030-61d2a4168422" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/blog_KNN-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/guoyao_kmeans-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/tang_SVM-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/tang_dbscan-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/9757539_ais.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/beer_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/blog_KNN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/guoyao_kmeans.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionTree/tang_dbscan.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/ZG_executeSql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/ZG_first_getCenter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/ZG_second_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecisionTree/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionTree/tang_svc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/tang_svc.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/guoyao_kmeans-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/.ipynb_checkpoints/guoyao_kmeans-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionTree/blog_KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/blog_KNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionTree/guoyao_kmeans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/guoyao_kmeans.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionTree/tang_dbscan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree/tang_dbscan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decision_tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/decision_tree.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,25 +38,69 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learning_decisionTree" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DecisionTree/tang_forest.py">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/ZG_second_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="2492">
+              <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#15#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/ZG_first_getCenter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/ZG_executeSql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecisionTree/guoyao_kmeans.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DecisionTree/tang_kmeans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+            <state relative-caret-position="1596">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/development/Anaconda3/Lib/uuid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20972">
+              <caret line="752" column="22" selection-start-line="752" selection-start-column="22" selection-end-line="752" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,7 +120,29 @@
       <find>SelectKBest</find>
       <find>RandomForestClassifier</find>
       <find>test.csv</find>
+      <find>9757</find>
+      <find>存放当前目录下所有文件的列表</find>
+      <find>plt</find>
+      <find>b7cc739b-0e67-323a-8a8a-2aed43fe172e</find>
+      <find>shiptype_level5_sub_group</find>
+      <find>deadweight</find>
+      <find>continue</find>
+      <find>len</find>
+      <find>dtype</find>
+      <find>Rizhao&amp;China</find>
+      <find>lines</find>
+      <find>data</find>
+      <find>comm</find>
+      <find>uuid</find>
+      <find>uuid_str</find>
+      <find>677054</find>
+      <find>2100</find>
+      <find>commit</find>
+      <find>draught</find>
     </findStrings>
+    <replaceStrings>
+      <replace>return</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,10 +152,16 @@
       <list>
         <option value="$PROJECT_DIR$/DecisionTree/DecisionTree.py" />
         <option value="$PROJECT_DIR$/DecisionTree/onlyForest.py" />
-        <option value="$PROJECT_DIR$/DecisionTree/test.py" />
         <option value="$PROJECT_DIR$/DecisionTree/myForestLast.py" />
         <option value="$PROJECT_DIR$/DecisionTree/tang_kmenas.py" />
         <option value="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/guoyao_kmeans_test.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/listFiles.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/getCenter.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/test.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/ZG_second_test.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/ZG_executeSql.py" />
+        <option value="$PROJECT_DIR$/DecisionTree/ZG_first_getCenter.py" />
       </list>
     </option>
   </component>
@@ -114,11 +185,15 @@
     <option name="width" value="975" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,7 +211,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,9 +220,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -168,8 +244,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tang_kmeans">
-    <configuration name="DecisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ZG_first_getCenter">
+    <configuration name="ZG_executeSql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="decision_tree" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,16 +258,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/DecisionTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/ZG_executeSql.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="myForestLast" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ZG_first_getCenter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="decision_tree" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,16 +280,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\ideaProject\learning_decisionTree\DecisionTree\tang_forest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/ZG_first_getCenter.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="onlyForest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ZG_second_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="decision_tree" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,16 +302,38 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/onlyForest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/ZG_second_test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tang_kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="decision_tree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listFiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="decision_tree" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,7 +346,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/tang_kmeans.py" />
+      <option name="SCRIPT_NAME" value="E:\ideaProject\learning_decisionTree\DecisionTree\ZG_first_getCenter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,9 +368,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\ideaProject\decision_tree\DecisionTree\myForestLast.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree/test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -281,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tang_kmeans" />
-        <item itemvalue="Python.myForestLast" />
+        <item itemvalue="Python.ZG_first_getCenter" />
+        <item itemvalue="Python.ZG_executeSql" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.onlyForest" />
-        <item itemvalue="Python.DecisionTree" />
+        <item itemvalue="Python.ZG_second_test" />
+        <item itemvalue="Python.listFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +403,35 @@
       <workItem from="1606530685692" duration="608000" />
       <workItem from="1607578554769" duration="107000" />
       <workItem from="1608198365925" duration="4930000" />
-      <workItem from="1608255800889" duration="5254000" />
+      <workItem from="1608255800889" duration="5268000" />
+      <workItem from="1608520541806" duration="481000" />
+      <workItem from="1609249443919" duration="468000" />
+      <workItem from="1616738703392" duration="1246000" />
+      <workItem from="1620978823631" duration="342000" />
+      <workItem from="1621320048368" duration="1815000" />
+      <workItem from="1621410845698" duration="1894000" />
+      <workItem from="1621488084673" duration="3617000" />
+      <workItem from="1621491885545" duration="12840000" />
+      <workItem from="1621564139459" duration="2850000" />
+      <workItem from="1621579844928" duration="7272000" />
+      <workItem from="1621824467111" duration="9346000" />
+      <workItem from="1621913666660" duration="16978000" />
+      <workItem from="1621992046474" duration="16866000" />
+      <workItem from="1622081268566" duration="11264000" />
+      <workItem from="1622165851035" duration="6311000" />
+      <workItem from="1622706569819" duration="3913000" />
+      <workItem from="1622786292926" duration="3738000" />
+      <workItem from="1623031346798" duration="1823000" />
+      <workItem from="1623140753835" duration="3810000" />
+      <workItem from="1623207240094" duration="668000" />
+      <workItem from="1623291640230" duration="36000" />
+      <workItem from="1625736512454" duration="1272000" />
+      <workItem from="1625835710508" duration="1487000" />
+      <workItem from="1627550931777" duration="4563000" />
+      <workItem from="1627609423800" duration="2521000" />
+      <workItem from="1627997483902" duration="603000" />
+      <workItem from="1628839043188" duration="371000" />
+      <workItem from="1628841977796" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="增加kmeans算法">
       <created>1608198940917</created>
@@ -321,26 +447,34 @@
       <option name="project" value="LOCAL" />
       <updated>1608206322643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改">
+      <created>1608284899220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608284899220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40880000" />
+    <option name="totallyTimeSpent" value="159291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="606" y="34" width="780" height="840" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1541555" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.19113573" />
+      <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.16487935" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50139666" side_tool="true" weight="0.16487935" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10474861" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36173186" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36173186" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47486034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -354,11 +488,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="SciView" order="5" weight="0.24798928" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.4953083" />
+      <window_info anchor="right" id="Maven" order="6" sideWeight="0.49860334" weight="0.3297587" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="10" sideWeight="0.50139666" side_tool="true" visible="true" weight="0.32963988" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1689008" />
@@ -408,6 +543,16 @@
           <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DecisionTree/ZG_second_test.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DecisionTree/ZG_first_getCenter.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -425,9 +570,24 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/decision_tree$DecisionTree.coverage" NAME="DecisionTree Coverage Results" MODIFIED="1606360259240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$myForestLast.coverage" NAME="myForestLast Coverage Results" MODIFIED="1606399453731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$listFiles.coverage" NAME="listFiles Coverage Results" MODIFIED="1622020816594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$ZG_executeSql.coverage" NAME="ZG_executeSql Coverage Results" MODIFIED="1625840716441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$ZG_first_getCenter.coverage" NAME="ZG_first_getCenter Coverage Results" MODIFIED="1627555143017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/learning_decisionTree$tang_kmeans.coverage" NAME="tang_kmeans Coverage Results" MODIFIED="1608272095214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$guoyao_kmeans_test.coverage" NAME="guoyao_kmeans_test Coverage Results" MODIFIED="1621932352219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$onlyForest.coverage" NAME="onlyForest Coverage Results" MODIFIED="1606388551033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
     <SUITE FILE_PATH="coverage/decision_tree$test.coverage" NAME="test Coverage Results" MODIFIED="1606398864602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$ZG_second_test.coverage" NAME="ZG_second_test Coverage Results" MODIFIED="1622083131699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+    <SUITE FILE_PATH="coverage/learning_decisionTree$test.coverage" NAME="test Coverage Results" MODIFIED="1623142287373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTree" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>len(linearray)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DecisionTree/titanic_train.csv">
@@ -443,13 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
           <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/development/Anaconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
@@ -471,10 +624,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/9757539_ais.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/development/Anaconda3/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8260">
+          <caret line="413" column="13" selection-start-line="413" selection-start-column="13" selection-end-line="413" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/development/Anaconda3/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2912">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/development/Anaconda3/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/tang_dbscan.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/guoyao_kmeans_test.py" />
+    <entry file="file://C:/development/Anaconda3/Lib/site-packages/hdfs/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="182" column="22" lean-forward="true" selection-start-line="182" selection-start-column="22" selection-end-line="182" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/blog_KNN.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/guoyao_dbscan.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/guoyao_pointDensity.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/677054900.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/210075000.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://C:/development/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/ZG_second_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2492">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/ZG_executeSql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/guoyao_kmeans.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DecisionTree/tang_kmeans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        <state relative-caret-position="1596">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/development/Anaconda3/Lib/uuid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20972">
+          <caret line="752" column="22" selection-start-line="752" selection-start-column="22" selection-end-line="752" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecisionTree/ZG_first_getCenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
